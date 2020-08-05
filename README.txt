@@ -3,6 +3,8 @@ this has many of the screenshots I used for the presentation
 -----------------------------------------------------------------------------
 presentation folder
 this contatins the data post-clean, pdf presentation and video presentation
+Video Link:
+https://drive.google.com/file/d/1ou-_ZGJ5xPwPJGz0elnKuQw_ChKvBxC-/view?usp=sharing
 -----------------------------------------------------------------------------
 Shiny R application
 You will need to open the global.R, server.r and ui.R as well as set the
